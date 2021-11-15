@@ -1,3 +1,3 @@
-# Ruby crash course example!
+# ruby-crash-course
 
-test
+test2
